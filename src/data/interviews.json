@@ -1,5 +1,14 @@
 [
   {
+    "title": "State Machines, XState & Vue (with David Khourshid)",
+    "link": "https://enjoythevue.io/episodes/20/",
+    "platform": "Enjoy the Vue",
+    "hosts": ["Ben Hong", "Ari Clark", "Tessa"],
+    "date": "2020-06-08",
+    "type": "podcast",
+    "featured": false
+  },
+  {
     "title": "Test Driven Development",
     "link": "https://enjoythevue.io/episodes/11/",
     "platform": "Enjoy the Vue",
