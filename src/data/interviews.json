@@ -9,6 +9,15 @@
     "featured": false
   },
   {
+    "title": "Live-Coding",
+    "link": "https://www.buzzsprout.com/1027129/4004510-episode-2-live-coding",
+    "platform": "DreamStacks Podcast",
+    "hosts": ["Amelia Winger-Bearskin", "Sam Agnew", "Dan Gorelick", "Shy Ruparel"],
+    "date": "2020-06-01",
+    "type": "podcast",
+    "featured": false
+  },
+  {
     "title": "Test Driven Development",
     "link": "https://enjoythevue.io/episodes/11/",
     "platform": "Enjoy the Vue",
