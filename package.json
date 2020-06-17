@@ -22,7 +22,7 @@
     "eslint-loader": "4.0.2",
     "eslint-plugin-prettier": "3.1.4",
     "eslint-plugin-vue": "6.2.2",
-    "gridsome-plugin-svg": "0.0.13",
+    "gridsome-plugin-svg": "0.0.14",
     "gridsome-plugin-tailwindcss": "2.2.48",
     "gridsome-plugin-typescript": "0.4.0",
     "hex-to-rgb": "1.0.1",
