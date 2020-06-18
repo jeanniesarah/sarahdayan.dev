@@ -11,7 +11,7 @@
     "gridsome": "0.7.17",
     "vue-observe-visibility": "0.4.6",
     "vue-resize-directive": "1.2.0",
-    "vue2-smooth-scroll": "1.4.1"
+    "vue2-smooth-scroll": "1.4.2"
   },
   "devDependencies": {
     "@gridsome/plugin-sitemap": "0.3.0",

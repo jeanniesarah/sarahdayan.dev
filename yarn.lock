@@ -9652,10 +9652,10 @@ vue-template-es2015-compiler@^1.9.0:
   resolved "https://registry.yarnpkg.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha512-4gDntzrifFnCEvyoO8PqyJDmguXgVPxKiIxrBKjIowvL9l+N66196+72XVYR8BBf1Uv1Fgt3bGevJ+sEmxfZzw==
 
-vue2-smooth-scroll@1.4.1:
-  version "1.4.1"
-  resolved "https://registry.yarnpkg.com/vue2-smooth-scroll/-/vue2-smooth-scroll-1.4.1.tgz#cc95d69dbdd0924b98f9ea0a75bdafd3fe48292f"
-  integrity sha512-0ub7BRsFVBNBi/9Y50N6MQsPC7pUVRMv98MDMpM87d47SsHJRu5NSsNCnOoPdjl19tlvlmbaJL3f4jy+ab0e3w==
+vue2-smooth-scroll@1.4.2:
+  version "1.4.2"
+  resolved "https://registry.yarnpkg.com/vue2-smooth-scroll/-/vue2-smooth-scroll-1.4.2.tgz#d39f47726d4e894e1835d2673279394826dbcc2a"
+  integrity sha512-aFxG3Y4dlEVKhd73Rh7iZHxj/YQXJDikxzhlIBFlv6RPF44aXU/LI4l5Pwpbg4RXckqK/JC/wUV0lRrFkHB7qg==
 
 vue@^2.6.10:
   version "2.6.11"
