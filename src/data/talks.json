@@ -3,7 +3,13 @@
     "title": "Learning from the Mistakes of a v1",
     "event": "JSCONF.BE",
     "isOnline": true,
-    "date": "2020-06-23"
+    "date": "2020-06-23",
+    "links": [
+      {
+        "label": "Slides",
+        "link": "https://noti.st/sarahdayan/zjFPFu/learning-from-the-mistakes-of-a-v1"
+      }
+    ]
   },
   {
     "title": "Why Javascript Numbers Are Weird (And How to Fix It)",
