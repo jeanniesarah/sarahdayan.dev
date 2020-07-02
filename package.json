@@ -8,7 +8,7 @@
     "lint": "eslint 'src/**/*.{vue,js}' --fix"
   },
   "dependencies": {
-    "gridsome": "0.7.17",
+    "gridsome": "0.7.18",
     "vue-observe-visibility": "0.4.6",
     "vue-resize-directive": "1.2.0",
     "vue2-smooth-scroll": "1.4.2"
